@@ -34,7 +34,7 @@ dependencies:
   - intel-openmp=2020.3=h57928b3_311
   - ipykernel=5.3.4=py39he1a07ef_1
   - ipyparallel=6.3.0=py39hde42818_1
-  - ipython=7.19.0=py39h832f523_0
+  - ipython=7.19.0
   - ipython_genutils=0.2.0=py_1
   - ipywidgets=7.5.1=pyh9f0ad1d_1
   - jedi=0.17.2=py39hcbf5309_1
