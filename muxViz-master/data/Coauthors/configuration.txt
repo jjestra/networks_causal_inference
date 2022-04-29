@@ -1,0 +1,2 @@
+data/Coauthors/edge_list_l0.txt;Alumni;data/Coauthors/layout.txt
+data/Coauthors/edge_list_l1.txt;Coauthors;data/Coauthors/layout.txt
