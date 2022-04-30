@@ -1,6 +1,6 @@
 # Causal Inference with Multilayer Network Data
 
-This set of mini-lectures introduces the audience to _multilayer_ network data, how to build them, and teach them how to perform causal inference. By doing live demonstrations, participants will also learn how to use a server on the cloud for scientific computing and database management. The power of live coding within [Jupyter Notebooks](https://jupyter.org/) with a [Python](https://www.python.org/) and [Stata](https://www.stata.com/) kernel will be demonstrated as well as the versatility of [PostgreSQL](https://www.postgresql.org/) for easy network construction. At the end of these mini-lectures participants will be able to: 
+This set of mini-lectures introduces the audience to _multilayer_ network data, how to build them, and teach them how to perform causal inference. By doing live demonstrations, participants will also learn how to use a server on the cloud for scientific computing and database management. The power of live coding within [Jupyter Notebooks](https://jupyter.org/) with a [Python](https://www.python.org/), [R](https://www.r-project.org/), and [Stata](https://www.stata.com/) kernel will be demonstrated as well as the versatility of [PostgreSQL](https://www.postgresql.org/) for easy network construction. At the end of these mini-lectures participants will be able to: 
 
 1. Implement state-of-the-art Econometric methods for causal inference using network data.
 2. Use Jupyter Notebooks for their own research projects .
