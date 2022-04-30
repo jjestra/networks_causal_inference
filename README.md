@@ -8,7 +8,7 @@ This set of mini-lectures introduces the audience to _multilayer_ network data, 
 
 # Description of the lecture notes
 
-- Lecture 1: Quick start with PostgreSQL on the cloud and the SQL language; (b) How to construct network data with SQL; (c) An introduction to the NetworkX library; (d) Network visualization tools; (e) Introduction to network statistics using the NetworkX library; (f) Multilayer network statistics and visualization tools
+- Lecture 1: (a) Quick start with PostgreSQL on the cloud and the SQL language; (b) How to construct network data with SQL; (c) An introduction to the [NetworkX](https://networkx.org/) library; (d) Network visualization tools; (e) Introduction to network statistics using the NetworkX library; (f) Multilayer network statistics and visualization tools
 
 - Lecture 2: Presentation of the papers "On the Identification and Estimation of Endogenous Peer Effects in Multiplex Networks," by Juan Estrada, Kim Huynh, David Jacho-Chavez, and Leonardo Sanchez-Aragon, and "On the Estimation of Social Effects with Observational Network Data and Random Assignment," by Julian Chan, Juan Estrada, Kim P. Huynh, David T. Jacho-Chavez, Tom Lam and Leonardo Sanchez-Aragon.
 
